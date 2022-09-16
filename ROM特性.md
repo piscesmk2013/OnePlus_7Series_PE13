@@ -1,0 +1,15 @@
+1. 一加相机
+2. Dolby音效
+3. 一加设置
+  3.1. DC调光
+  3.2. 高亮度模式与自动高亮度模式(阳光模式)
+  3.3. 面板模式(色彩管理)
+  3.4. 三段式滑块自定义
+  3.5. 前置相机弹出询问
+4. KProfiles内核调度模式
+5. 游戏空间
+6. AOD与息屏指纹解锁
+7. PIN码快速解锁
+8. EROFS只读分区
+9. F2FS与EXT4分区支持(请用我提供的recovery中的格式化选择，推荐使用F2FS格式)
+10. 使用Gulch_R内核(https://github.com/RealJohnGalt/GaltsGulch-sm8150/commits/gulch_r)
