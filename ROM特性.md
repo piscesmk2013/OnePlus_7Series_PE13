@@ -13,5 +13,5 @@
 8. 充电优化功能
 9. 电池健康度与容量
 10. EROFS只读分区
-11. F2FS与EXT4分区支持(请用我提供的recovery中的格式化选择，推荐使用F2FS格式)
+11. F2FS数据分区
 12. 使用Gulch_R内核(https://github.com/RealJohnGalt/GaltsGulch-sm8150/commits/gulch_r)
