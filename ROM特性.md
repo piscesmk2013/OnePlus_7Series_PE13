@@ -12,6 +12,11 @@
 7. PIN码快速解锁
 8. 充电优化功能
 9. 电池健康度与容量
-10. EROFS只读分区
-11. F2FS数据分区
-12. 使用Gulch_R内核(https://github.com/RealJohnGalt/GaltsGulch-sm8150/commits/gulch_r)
+10. 通话状态震动提示
+11. 通知边缘光效
+12. reTicker通知
+13. 高级重启
+14. 网络速率指示器
+15. EROFS只读分区
+16. F2FS数据分区
+17. 使用Gulch_R内核(https://github.com/RealJohnGalt/GaltsGulch-sm8150/commits/gulch_r)
