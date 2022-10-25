@@ -23,6 +23,12 @@
 18. 严格待机模式(划卡即停)
 19. 墓碑模式
 20. 三指截屏
-21. EROFS只读分区
-22. F2FS数据分区
-23. 使用Gulch_R内核(https://github.com/RealJohnGalt/GaltsGulch-sm8150/commits/gulch_r)
+21. 状态栏亮度调节
+22. 单次自动亮度
+23. 沉浸式导航栏
+24. 来电振动模式
+25. EROFS只读分区
+26. F2FS数据分区
+27. 使用Gulch_R内核(https://github.com/RealJohnGalt/GaltsGulch-sm8150/commits/gulch_r)
+
+* 如果找不到上述功能入口，请复制关键词至更新日志中检索
