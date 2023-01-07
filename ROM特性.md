@@ -18,9 +18,10 @@
 12. OOS来电振动模式(设置-提示音和振动-振动和触感反馈-铃声振动模式)
 13. 深色模式纯黑背景主题(设置-显示-深色模式-使用纯黑主题)
 14. 口袋防误触模式(设置-显示-口袋检测)
-15. EROFS只读分区
-16. F2FS数据分区
-17. OTA与本地更新
-18. 使用Gulch_R内核(https://github.com/RealJohnGalt/GaltsGulch-sm8150/commits/gulch_r)
+15. 状态栏歌词(设置-系统-状态栏-状态栏歌词)
+16. EROFS只读分区
+17. F2FS数据分区
+18. OTA与本地更新
+19. 使用Gulch_R内核(https://github.com/RealJohnGalt/GaltsGulch-sm8150/commits/gulch_r)
 
 * 如果找不到上述功能入口，请复制关键词至更新日志中检索
