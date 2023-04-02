@@ -20,9 +20,12 @@
 14. 深色模式纯黑背景主题(设置-显示-深色模式-使用纯黑主题)
 15. 口袋防误触模式(设置-显示-口袋检测)
 16. 状态栏歌词(设置-系统-状态栏-状态栏歌词)
-17. EROFS只读分区
-18. F2FS数据分区
-19. OTA与本地更新
-20. 使用Gulch_R内核(https://github.com/RealJohnGalt/GaltsGulch-sm8150/commits/gulch_r)
+17. QS磁贴
+   17.1 双SIM卡数据快速切换
+   17.2 刷新率快速切换
+18. EROFS只读分区
+19. F2FS数据分区
+20. OTA与本地更新
+21. 使用Gulch_R内核(https://github.com/RealJohnGalt/GaltsGulch-sm8150/commits/gulch_r)
 
 * 如果找不到上述功能入口，请复制关键词至更新日志中检索
