@@ -23,9 +23,12 @@
 17. QS磁贴
    17.1 双SIM卡数据快速切换
    17.2 刷新率快速切换
-18. EROFS只读分区
-19. F2FS数据分区
-20. OTA与本地更新
-21. 使用Gulch_R内核(https://github.com/RealJohnGalt/GaltsGulch-sm8150/commits/gulch_r)
+18. 自定义指纹图标及指纹动画功能(设置-显示-锁定屏幕-UDFPS自定义)
+19. 拾起唤醒或者双击唤醒时唤醒环境显示而不是锁屏界面(设置-显示-锁定屏幕-点按/拿起即显示-显示环境显示)
+20. EROFS只读分区
+21. F2FS数据分区
+22. OTA与本地更新
+23. 使用Gulch_R内核(https://github.com/yaap/kernel_oneplus_sm8150)
 
+* 以上特性为我维护的非官方PE与官方PE的不同之处，列出的项目都是官方PE没有或者不支持的
 * 如果找不到上述功能入口，请复制关键词至更新日志中检索
